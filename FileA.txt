@@ -1,2 +1,1 @@
-this is the FIX change of file A
-ADD
+this is the fourth change of file A
