@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-this is the third change of file A, made in a clone
 =======
 this is the second change of file A
 >>>>>>> FirstNewBranch
