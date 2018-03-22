@@ -1,2 +1,1 @@
-this is the third change of file A, made in a clone
 this is the fourth change of file A
